@@ -21,7 +21,7 @@ function App() {
             </Routes>
           </main>
           <footer className="footer">
-            <p>© 2025 Blog Website. Made with ❤️ using React By Student of 602-B</p>
+            <p>© 2025 Blog Website. Made with ❤️ using React </p>
           </footer>
         </div>
       </Router>
